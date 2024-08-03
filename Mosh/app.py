@@ -108,4 +108,5 @@ for num in num2:
 #exercise #13
 num1 =[1,2,3] #lists
 num2 =(1,2,3) #tuples -> immutable
+print(num1)
 print(num2)
